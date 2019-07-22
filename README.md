@@ -5,7 +5,7 @@ Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
 git clone git@github.com:NoneWillSurvive/Hello-Node.git # or clone your own fork
-cd node-js-sample
+cd Hello-Node
 npm install
 npm start
 ```
