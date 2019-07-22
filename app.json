@@ -1,0 +1,7 @@
+{
+  "name": "Node.js App",
+  "description": "Hello-World Node.js app using Express 4",
+  "repository": "https://github.com/NoneWillSurvive/Hello-Node",
+  "logo": "https://www.mervcodes.com/wp-content/uploads/2017/12/nodejslogo.png",
+  "keywords": ["node", "express"]
+}
